@@ -4,4 +4,4 @@ This includes the code required to recreate the results of my regression analyse
 
 An investigation into correlates of growth in developing countries: “Which government policies and environmental factors have had the greatest effect on the differing levels of economic growth that have occurred in developing countries since the 1970s?”
 
-This also includes the dataset and the code used to create the dataset once the data has been downloaded from various sources (World Bank, PWT10.01, etc)
+This also includes the code used to create the dataset once the data has been downloaded from various sources (World Bank, PWT10.01, etc)
