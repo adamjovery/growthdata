@@ -1,0 +1,14 @@
+Dataset sources:
+"P_Popular Indicators.xlsx": https://databank.worldbank.org/indicator/SP.POP.TOTL/1ff4a498/Popular-Indicators
+
+"V-Dem-CY-Core-v14.xlsx": https://v-dem.net/data/the-v-dem-dataset/
+
+"qogdata_29_11_2024.xlsx": https://kof.ethz.ch/en/forecasts-and-indicators/indicators/kof-globalisation-index.html
+
+"cru-x0.5_timeseries_tas_timeseries_annual_1901-2022_mean_historical_cru_ts4.07_mean.xlsx": https://climateknowledgeportal.worldbank.org/
+
+"PWT1001.dta": https://www.rug.nl/ggdc/productivity/pwt/?lang=en
+
+"API_AG.LND.PRCP.MM_DS2_en_excel_v2_340.xls": https://data.worldbank.org/indicator/AG.LND.PRCP.MM 
+
+"terrain-ruggedness-index.xlsx": https://ourworldindata.org/grapher/terrain-ruggedness-index
