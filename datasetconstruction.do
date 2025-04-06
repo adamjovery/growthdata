@@ -15,8 +15,8 @@ rename CountryCode countrycode
 drop SeriesCode
 drop SeriesName
 
-do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\Dataset COW codes Do.do"
-do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\Dataset Pruning Do.do"
+do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\CoWcoding.do"
+do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\datasetcleaning.do"
 save "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\GdpGrowth.dta"
 clear
 ***************************************************************************************
@@ -36,8 +36,8 @@ rename CountryCode countrycode
 drop SeriesCode
 drop SeriesName
 
-do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\Dataset COW codes Do.do"
-do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\Dataset Pruning Do.do"
+do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\CoWcoding.do"
+do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\datasetcleaning.do"
 save "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\GdpCurrent.dta"
 clear
 ***************************************************************************************
@@ -57,8 +57,8 @@ rename CountryCode countrycode
 drop SeriesCode
 drop SeriesName
 
-do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\Dataset COW codes Do.do"
-do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\Dataset Pruning Do.do"
+do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\CoWcoding.do"
+do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\datasetcleaning.do"
 save "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\GdpPerCapita.dta"
 clear
 ***************************************************************************************
@@ -78,8 +78,8 @@ rename CountryCode countrycode
 drop SeriesCode
 drop SeriesName
 
-do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\Dataset COW codes Do.do"
-do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\Dataset Pruning Do.do"
+do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\CoWcoding.do"
+do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\datasetcleaning.do"
 save "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\Exports.dta"
 clear
 ***************************************************************************************
@@ -99,8 +99,8 @@ rename CountryCode countrycode
 drop SeriesCode
 drop SeriesName
 
-do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\Dataset COW codes Do.do"
-do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\Dataset Pruning Do.do"
+do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\CoWcoding.do"
+do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\datasetcleaning.do"
 save "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\Imports.dta"
 clear
 ***************************************************************************************
@@ -120,8 +120,8 @@ rename CountryCode countrycode
 drop SeriesCode
 drop SeriesName
 
-do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\Dataset COW codes Do.do"
-do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\Dataset Pruning Do.do"
+do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\CoWcoding.do"
+do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\datasetcleaning.do"
 save "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\MerchandiseTrade.dta"
 clear
 ***************************************************************************************
@@ -141,8 +141,8 @@ rename CountryCode countrycode
 drop SeriesCode
 drop SeriesName
 
-do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\Dataset COW codes Do.do"
-do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\Dataset Pruning Do.do"
+do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\CoWcoding.do"
+do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\datasetcleaning.do"
 save "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\PopulationGrowth.dta"
 clear
 ***************************************************************************************
@@ -162,8 +162,8 @@ rename CountryCode countrycode
 drop SeriesCode
 drop SeriesName
 
-do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\Dataset COW codes Do.do"
-do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\Dataset Pruning Do.do"
+do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\CoWcoding.do"
+do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\datasetcleaning.do"
 save "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\PrimaryEducation.dta"
 clear
 ***************************************************************************************
@@ -183,8 +183,8 @@ rename CountryCode countrycode
 drop SeriesCode
 drop SeriesName
 
-do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\Dataset COW codes Do.do"
-do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\Dataset Pruning Do.do"
+do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\CoWcoding.do"
+do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\datasetcleaning.do"
 save "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\SecondaryEducation.dta"
 clear
 ***************************************************************************************
@@ -204,8 +204,8 @@ rename CountryCode countrycode
 drop SeriesCode
 drop SeriesName
 
-do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\Dataset COW codes Do.do"
-do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\Dataset Pruning Do.do"
+do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\CoWcoding.do"
+do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\datasetcleaning.do"
 save "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\FDIin.dta"
 clear
 ***************************************************************************************
@@ -225,8 +225,8 @@ rename CountryCode countrycode
 drop SeriesCode
 drop SeriesName
 
-do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\Dataset COW codes Do.do"
-do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\Dataset Pruning Do.do"
+do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\CoWcoding.do"
+do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\datasetcleaning.do"
 save "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\FDInet.dta"
 clear
 ***************************************************************************************
@@ -244,7 +244,7 @@ rename v2x_libdem libdem
 rename v2x_partipdem partipdem
 rename v2x_polyarchy polyarchy
 
-do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\Dataset Pruning Do.do"
+do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\datasetcleaning.do"
 save "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\Vdem.dta"
 clear
 ***************************************************************************************
@@ -257,7 +257,7 @@ rename cname country
 rename ccodecow cowcode
 rename dr_ig kof
 
-do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\Dataset Pruning Do.do"
+do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\datasetcleaning.do"
 save "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\KOF.dta",replace
 clear
 ***************************************************************************************
@@ -329,8 +329,8 @@ rename name country
 rename code countrycode
 drop if countrycode == "TWN"
 
-do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\Dataset COW codes Do.do"
-do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\Dataset Pruning Do.do"
+do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\CoWcoding.do"
+do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\datasetcleaning.do"
 save "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\TAS.dta"
 clear
 ***************************************************************************************
@@ -340,8 +340,8 @@ use "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\PWT100
 
 keep countrycode country year hc
 
-do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\Dataset COW codes Do.do"
-do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\Dataset Pruning Do.do"
+do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\CoWcoding.do"
+do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\datasetcleaning.do"
 save "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\HumanCapital.dta"
 clear
 ***************************************************************************************
@@ -412,8 +412,8 @@ rename CountryName country
 rename CountryCode countrycode
 keep country countrycode id year raindpth
 
-do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\Dataset COW codes Do.do"
-do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\Dataset Pruning Do.do"
+do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\CoWcoding.do"
+do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\datasetcleaning.do"
 save "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\AverageRainfallDepth.dta"
 clear
 ***************************************************************************************
@@ -427,7 +427,7 @@ drop Year
 destring TerrainRuggednessIndex100mN, replace
 rename TerrainRuggednessIndex100mN ruggedind
 
-do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\Dataset COW codes Do.do"
+do "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\CoWcoding.do"
 
 replace country= "delete" if (cowcode != 700) & (cowcode!= 615) & (cowcode!= 540) & (cowcode!= 58) & (cowcode!= 160) & (cowcode!= 371) & (cowcode!= 373) & (cowcode!= 31) & (cowcode!= 692) & (cowcode!= 771) & (cowcode!= 53) & (cowcode!= 80) & (cowcode!= 434) & (cowcode!= 760) & (cowcode!= 145) & (cowcode!= 571) & (cowcode!= 140) & (cowcode!= 835) & (cowcode!= 439) & (cowcode!= 516) & (cowcode!= 402) & (cowcode!= 811) & (cowcode!= 471) & (cowcode!= 482) & (cowcode!= 483) & (cowcode!= 155) & (cowcode!= 710) & (cowcode!= 997) & (cowcode!= 996) & (cowcode!= 100) & (cowcode!= 581) & (cowcode!= 484) & (cowcode!= 94) & (cowcode!= 437) & (cowcode!= 40) & (cowcode!= 731) & (cowcode!= 490) & (cowcode!= 522) & (cowcode!= 54) & (cowcode!= 42) & (cowcode!= 130) & (cowcode!= 651) & (cowcode!= 92) & (cowcode!= 411) & (cowcode!= 531) & (cowcode!= 572) & (cowcode!= 530) & (cowcode!= 950) & (cowcode!= 481) & (cowcode!= 420) & (cowcode!= 372) & (cowcode!= 452) & (cowcode!= 55) & (cowcode!= 90) & (cowcode!= 438) & (cowcode!= 404) & (cowcode!= 110) & (cowcode!= 41) & (cowcode!= 91) & (cowcode!= 750) & (cowcode!= 850) & (cowcode!= 630) & (cowcode!= 645) & (cowcode!= 51) & (cowcode!= 663) & (cowcode!= 705) & (cowcode!= 501) & (cowcode!= 946) & (cowcode!= 690) & (cowcode!= 703) & (cowcode!= 812) & (cowcode!= 660) & (cowcode!= 570) & (cowcode!= 450) & (cowcode!= 620) & (cowcode!= 580) & (cowcode!= 553) & (cowcode!= 820) & (cowcode!= 781) & (cowcode!= 432) & (cowcode!= 983) & (cowcode!= 435) & (cowcode!= 590) & (cowcode!= 70) & (cowcode!= 987) & (cowcode!= 712) & (cowcode!= 600) & (cowcode!= 541) & (cowcode!= 775) & (cowcode!= 565) & (cowcode!= 970) & (cowcode!= 790) & (cowcode!= 93) & (cowcode!= 436) & (cowcode!= 475) & (cowcode!= 698) & (cowcode!= 770) & (cowcode!= 986) & (cowcode!= 95) & (cowcode!= 910) & (cowcode!= 150) & (cowcode!= 135) & (cowcode!= 840) & (cowcode!= 694) & (cowcode!= 517) & (cowcode!= 60) & (cowcode!= 56) & (cowcode!= 57) & (cowcode!= 990) & (cowcode!= 403) & (cowcode!= 670) & (cowcode!= 433) & (cowcode!= 591) & (cowcode!= 451) & (cowcode!= 830) & (cowcode!= 940) & (cowcode!= 520) & (cowcode!= 560) & (cowcode!= 626) & (cowcode!= 780) & (cowcode!= 625) & (cowcode!= 115) & (cowcode!= 652) & (cowcode!= 702) & (cowcode!= 800) & (cowcode!= 860) & (cowcode!= 461) & (cowcode!= 955) & (cowcode!= 52) & (cowcode!= 616) & (cowcode!= 640) & (cowcode!= 701) & (cowcode!= 947) & (cowcode!= 500) & (cowcode!= 696) & (cowcode!= 510) & (cowcode!= 165) & (cowcode!= 704) & (cowcode!= 935) & (cowcode!= 101) & (cowcode!= 816) & (cowcode!= 998) & (cowcode!= 678) & (cowcode!= 551) & (cowcode!= 552)
 drop if country== "delete"
