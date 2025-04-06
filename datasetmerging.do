@@ -59,6 +59,6 @@ replace AmericaDum = 1 if cowcode == 31 | cowcode== 40 | cowcode== 41 | cowcode=
 gen OceaniaDum = 0
 replace OceaniaDum = 1 if cowcode == 910 | cowcode== 935 | cowcode== 940 | cowcode== 946 | cowcode== 947 | cowcode== 950 | cowcode== 955 | cowcode== 970 | cowcode== 983 | cowcode== 986 | cowcode== 987 | cowcode== 990
 
-save "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\growthdataset.dta", replace
+save "C:\Users\adamj\OneDrive - University of Reading\Dissertation Dataset\growthdataset.dta"
 ***************************************************************************************
 ***************************************************************************************
