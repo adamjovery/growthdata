@@ -1,14 +1,27 @@
 Dataset sources:
-"P_Popular Indicators.xlsx": https://databank.worldbank.org/indicator/SP.POP.TOTL/1ff4a498/Popular-Indicators
-
+"P_Popular Indicators.xlsx": World Bank, Databank (2024). World Development Indicators. URL: https://databank.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG/1ff4a498/Popular-Indicators#. Date Accessed: 30/11/24
+***************************************************************************************
+***************************************************************************************
 "V-Dem-CY-Core-v14.xlsx": https://v-dem.net/data/the-v-dem-dataset/
-
+Coppedge, Michael, John Gerring, Carl Henrik Knutsen, Staffan I. Lindberg, Jan Teorell, David Altman, Fabio Angiolillo, Michael Bernhard, Cecilia Borella, Agnes Cornell, M. Steven Fish, Linnea Fox, Lisa Gastaldi, Haakon Gjerløw, Adam Glynn, Ana Good God, Sandra Grahn, Allen Hicken, Katrin Kinzelbach, Joshua Krusell, Kyle L. Marquardt, Kelly McMann, Valeriya Mechkova, Juraj Medzihorsky, Natalia Natsika, Anja Neundorf, Pamela Paxton, Daniel Pemstein, Josefine Pernes, Oskar Rydén, Johannes von Römer, Brigitte Seim, Rachel Sigman, Svend-Erik Skaaning, Jeffrey Staton, Aksel Sundström, Eitan Tzelgov, Yi-ting Wang, Tore Wig, Steven Wilson and Daniel Ziblatt. 2024. ”V-Dem [Country-Year/Country-Date] Dataset v14” Varieties of Democracy (V-Dem) Project. https://doi.org/10.23696/mcwt-fr58. and: Pemstein, Daniel, Kyle L. Marquardt, Eitan Tzelgov, Yi-ting Wang, Juraj Medzihorsky, Joshua Krusell, Farhad Miri, and Johannes von R¨omer. 2024. “The V-Dem Measurement Model: Latent Variable Analysis for Cross-National and Cross-Temporal Expert-Coded Data”. V-Dem Working Paper No. 21. 9th edition. University of Gothenburg: Varieties of Democracy Institute.
+***************************************************************************************
+***************************************************************************************
 "qogdata_29_11_2024.xlsx": https://kof.ethz.ch/en/forecasts-and-indicators/indicators/kof-globalisation-index.html
-
-"cru-x0.5_timeseries_tas_timeseries_annual_1901-2022_mean_historical_cru_ts4.07_mean.xlsx": https://climateknowledgeportal.worldbank.org/
-
+Dreher, A. (2006). Does globalization affect growth? Evidence from a new index of globalization. Applied Economics, 38(10), 1091–1110.
+Gygli, S., Haelg, F., Potrafke, N., & Sturm, J.-E. (2019). The KOF Globalisation Index - Revisited. In Review of International Organizations (No. 3; Vol. 14, pp. 543–574). https://doi.org/10.1007/s11558-019-09344-2
+***************************************************************************************
+***************************************************************************************
+"cru-x0.5_timeseries_tas_timeseries_annual_1901-2022_mean_historical_cru_ts4.07_mean.xlsx": World Bank, Climate Change Knowledge Portal (2024). URL: https://climateknowledgeportal.worldbank.org/. Date Accessed: 30/11/24
+***************************************************************************************
+***************************************************************************************
 "PWT1001.dta": https://www.rug.nl/ggdc/productivity/pwt/?lang=en
-
-"API_AG.LND.PRCP.MM_DS2_en_excel_v2_340.xls": https://data.worldbank.org/indicator/AG.LND.PRCP.MM 
-
+Feenstra, R.C., Inklaar, R., and Timmer, M.P. (2015), "The Next Generation of the Penn World Table" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt
+***************************************************************************************
+***************************************************************************************
+"API_AG.LND.PRCP.MM_DS2_en_excel_v2_340.xls": World Bank, Databank (2025). URL: https://data.worldbank.org/indicator/AG.LND.PRCP.MM. Date Accessed: 19/03/25
+***************************************************************************************
+***************************************************************************************
 "terrain-ruggedness-index.xlsx": https://ourworldindata.org/grapher/terrain-ruggedness-index
+Nunn, N. and Puga, D. (2012). Ruggedness: The blessing of bad geography in Africa. Review of Economics and Statistics, 94(1), pp.20-36.
+***************************************************************************************
+***************************************************************************************
