@@ -75,6 +75,11 @@ xtserial lnGdpCapita tradeopenness fdiperin lnhc kof lnpolyarchy tas lnraindpth 
 *4.9
 ssc install xtcd2
 xtcd2
+
+*4.10
+regress lnGdpCapita tradeopenness fdiperin lnhc kof lnpolyarchy tas lnraindpth lnruggedind i.landlocked
+xtreg lnGdpCapita tradeopenness fdiperin lnhc kof lnpolyarchy tas lnraindpth lnruggedind i.landlocked i.year, fe
+xtreg lnGdpCapita tradeopenness fdiperin lnhc kof lnpolyarchy tas lnraindpth lnruggedind i.landlocked, re
 ***************************************************************************************
 ***************************************************************************************
 *Appendix 5 - Model (3)
